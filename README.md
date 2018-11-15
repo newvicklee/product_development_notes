@@ -25,6 +25,7 @@
 
 
 ### Resources recommended by members
+* [Invisible Asymptotes](http://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes), by Eugene Wei
 * [Hard things about hard things](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things), by Ben Horowitz
 * [Design of everyday things ](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things), by Donald Norman
 * [Things a little bird told me by Biz Stone](https://www.goodreads.com/book/show/18296144-things-a-little-bird-told-me), by Biz Stone

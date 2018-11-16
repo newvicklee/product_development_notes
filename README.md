@@ -8,20 +8,20 @@
 ## What is product development?
 
 * It's not project management (managing a group of people's tasks based on pre-defined objectives)
-* Responsibilities of product development people: talking to users to understand them and their problems, coming up with product features (based on users' requests and/or ideas from team members), coordinating with development teams to build the features
+* Responsibilities of product development people: talking to users and non-users to understand them and their problems, coming up with product features (based on people's requests and/or ideas from team members), coordinating with development teams to build the features
 * Key idea is that product development people have to figure out the product and features that will bring the business closer to a product-market fit.
 
 
-## Talking to users
+## Talking to people (users and non-users)
 
-* Talk to users with the goal of understanding them and their problems. 
+* Talk to users and non-users with the goal of understanding them and their problems. 
 * Use open-ended questions to get them talking initially rather than starting with specific questions.
 * There's no such thing as a set of questions you should ask in every situation.
-* When you talk to one user and understand some of the problems in that space, talk to the next user and bring up the problems the first user mentioned 'what do you think of ___ problems?' Keep iterating this process. Eventually you will get a sense of the actual problems in the space since they will be repeated by multiple users.
+* When you talk to one user and understand some of the problems in that space, talk to the next user and bring up the problems the first user mentioned 'what do you think of ___ problems?' Keep iterating this process. Eventually you will get a sense of the actual problems in the space since they will be repeated by multiple people.
 
 
 ## Questions to consider 
-* How do you figure out if your WIP product is  1) actually not what users really want, or 2)  it's just the incomplete product that the users don't want ?
+* How do you figure out if your WIP product is  1) actually not what your target users really want, or 2)  it's just the incomplete product that your target users don't want ?
 
 
 ### Resources recommended by members

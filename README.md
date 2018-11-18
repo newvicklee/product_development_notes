@@ -15,6 +15,7 @@
 ## Talking to people (users and non-users)
 
 * Talk to users and non-users with the goal of understanding them and their problems. 
+    * Why it's important to talk to non-users too: If you want to understand something you don't understand, it can be useful to talk to whomever has information on it, regardless if they are users or not.
 * Use open-ended questions to get them talking initially rather than starting with specific questions.
 * There's no such thing as a set of questions you should ask in every situation.
 * When you talk to one user and understand some of the problems in that space, talk to the next user and bring up the problems the first user mentioned 'what do you think of ___ problems?' Keep iterating this process. Eventually you will get a sense of the actual problems in the space since they will be repeated by multiple people.
